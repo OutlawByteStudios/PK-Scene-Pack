@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Logo](Persistent-Kingdoms-Scene-Pack.png)
-#### Persistent Kingdoms Map Pack
+#### Persistent Kingdoms Scene Pack
 [![GitHub issues](https://img.shields.io/github/issues/SmartPhoenix/PK-Map-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Map-Pack/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/SmartPhoenix/PK-Map-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Map-Pack/pulls)
 [![Discord](https://img.shields.io/discord/450652484634148875.svg?style=flat-square&logo=discord)](https://discord.gg/jwM54DB)

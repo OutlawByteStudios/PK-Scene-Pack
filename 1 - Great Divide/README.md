@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Great Divide](Images/20190304165219-1.jpg)
-#### 1 - Great Divide
+## 1 - Great Divide
 **Original Creator: Avenger**
 <br><br>
 </div>
