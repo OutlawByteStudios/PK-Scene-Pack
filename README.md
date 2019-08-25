@@ -2,8 +2,8 @@
 
 ![Logo](Persistent-Kingdoms-Scene-Pack.png)
 #### Persistent Kingdoms Scene Pack
-[![GitHub issues](https://img.shields.io/github/issues/SmartPhoenix/PK-Map-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Map-Pack/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/SmartPhoenix/PK-Map-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Map-Pack/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/SmartPhoenix/PK-Scene-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Scene-Pack/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/SmartPhoenix/PK-Scene-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Scene-Pack/pulls)
 [![Discord](https://img.shields.io/discord/450652484634148875.svg?style=flat-square&logo=discord)](https://discord.gg/jwM54DB)
 [![Steam Group](https://img.shields.io/badge/Steam-Group-lightgrey.svg?style=flat-square)](https://steamcommunity.com/groups/persistent-kingdoms)
 <br><br>
@@ -41,5 +41,5 @@ If you wish to contribute then please get in contact with one of the PK develope
 
 For a contribution / pull request to be accepts the following must be done:
  * The changelog must be updated for each scene that is edited.
- * The old map must be placed in a subfolder of the `Old Versions` folder with the date of when the scene was last edited as the name of the folder.
+ * The old scene must be placed in a subfolder of the `Old Versions` folder with the date of when the scene was last edited as the name of the folder.
  * To combat abuse my mappers, for example where mappers in the past have placed hidden chests on the scene, the scene must be reviewed by a PK developer or someone they trust.
