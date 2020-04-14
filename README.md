@@ -2,8 +2,8 @@
 
 ![Logo](Persistent-Kingdoms-Scene-Pack.png)
 #### Persistent Kingdoms Scene Pack
-[![GitHub issues](https://img.shields.io/github/issues/SmartPhoenix/PK-Scene-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Scene-Pack/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/SmartPhoenix/PK-Scene-Pack.svg?style=flat-square)](https://github.com/SmartPhoenix/PK-Scene-Pack/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/OutlawByteStudios/PK-Scene-Pack.svg?style=flat-square)](https://github.com/OutlawByteStudios/PK-Scene-Pack/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/OutlawByteStudios/PK-Scene-Pack.svg?style=flat-square)](https://github.com/OutlawByteStudios/PK-Scene-Pack/pulls)
 [![Discord](https://img.shields.io/discord/450652484634148875.svg?style=flat-square&logo=discord)](https://discord.gg/jwM54DB)
 [![Steam Group](https://img.shields.io/badge/Steam-Group-lightgrey.svg?style=flat-square)](https://steamcommunity.com/groups/persistent-kingdoms)
 <br><br>
