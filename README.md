@@ -16,7 +16,7 @@ PK scenes were made by [Dekkers](https://forums.taleworlds.com/index.php?action=
 
 We would also like to thank [Proton](https://forums.taleworlds.com/index.php?action=profile;u=442780) and Stefan who helped convert some of these scenes from PW to PK.
 
-All of the scenes are ready to use with Persistent Kingdoms 1.2.
+All of the scenes are ready to use with Persistent Kingdoms 1.3.
 
 ## License
 The scenes can be used under the following terms:
